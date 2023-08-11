@@ -56,8 +56,17 @@
     width: 94px;
 }
 
+.ds4 .stick.pressed.left {
+    background-position-x: -96px;
+}
+
 .ds4 .stick.pressed.right {
     background-position-x: -192px;
+}
+
+.ds4 .stick.left {
+    top: 0;
+    left: 0;
 }
 
 .ds4 .stick.right {
